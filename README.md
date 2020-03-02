@@ -1,2 +1,2 @@
-# CRUS-OPERATION
+# CRUD-OPERATION
 Just another repository
